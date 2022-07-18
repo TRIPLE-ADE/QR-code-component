@@ -57,7 +57,7 @@ body {
     justify-content: center;
     min-height: 100vh;
 } This helps to place content at the center of the page
-
+```
 
 ### Continued development
 
