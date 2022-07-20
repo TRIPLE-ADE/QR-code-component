@@ -20,7 +20,7 @@ main {
     align-items: center;
     margin: auto;
     background-color: hsl(0, 0%, 100%);
-    width: 300px;
+    width: 290px;
     border-radius: 15px;
     padding: 1.2em 1.2em 2em 1.2em;
 
@@ -32,7 +32,7 @@ img {
 }
 
 #text-container {
-    width: 260px;
+    width: 270px;
 }
 
 h1 {
